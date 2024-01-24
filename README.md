@@ -1,7 +1,6 @@
 ### Hi, I am Aylin ✨
 Welcome to my page! Here you may find my projects and follow my programming journey.
 
-Currently, I am studying at Sber's **School 21** and based in Kazan, Russia.
 
 <a href="https://www.linkedin.com/mwlite/in/aylin-gaynutdinova-01128020b">
   <img align="left" alt="Telegram" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png" />
